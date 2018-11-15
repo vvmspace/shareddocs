@@ -102,4 +102,4 @@ Viasite.ru и городской портал TagilCity.ru:
 
 # Current status
 
-Занимаюсь Backend разрпаботкой на Node.js
+Занимаюсь Backend разрпаботкой чистого API на Node.js
